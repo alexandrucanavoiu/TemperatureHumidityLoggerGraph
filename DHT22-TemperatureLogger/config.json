@@ -1,0 +1,49 @@
+{
+"mysql":[{
+	"host":"localhost",
+	"user":"logger",
+	"password":"1234561",
+	"database":"temperatures"
+	}],
+"sensors":[{
+	"sensor1":"Senzor1",
+	"sensor2":"Senzor2"
+	}],
+"triggerlimits":[{
+	"sensor1lowlimit":"15",
+	"sensor2lowlimit":"15",
+	"sensor1highlimit":"30",
+	"sensor2highlimit":"30"
+	}],
+"humiditytriggers":[{
+	"sensor1_humidity_low_limit":"30",
+	"sensor1_humidity_high_limit":"60",
+	"sensor2_humidity_low_limit":"30",
+	"sensor2_humidity_high_limit":"60"
+	}],
+"sensorgpios":[{
+	"gpiosensor1":"22",
+	"gpiosensor2":"22"
+	}],
+"mailinfo":[{
+	"senderaddress":"marketingromania.ro@gmail.com",
+	"receiveraddress":"marketingromania.ro@gmail.com",
+	"username":"marketingromania.ro",
+	"password":"passwordemail",
+	"subjectmessage":"Info from temperature logger",
+	"subjectwarning":"Warning from temperature logger"
+	}],
+"sqlBackupDump":[{
+	"backupDumpEnabled":"y",
+	"backupHour":"23"
+	}],
+"connectionCheck":[{
+	"connectionCheckEnabled":"y",
+	"connectionCheckDay":"5",
+	"connectionCheckHour":"23"
+	}],
+"sensortype":"22",
+"sensoramount":"2",
+"sqlbackuppath":"/home/pi/TemperatureHumidityLoggerGraph/DHT22-TemperatureLogger/Backups/",
+"adafruitpath":"/home/pi/TemperatureHumidityLoggerGraph/Adafruit_Python_DHT/examples/AdafruitDHT.py"
+}
