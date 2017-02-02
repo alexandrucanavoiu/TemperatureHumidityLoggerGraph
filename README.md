@@ -70,7 +70,7 @@ Go in DHT22-TemperatureLogger folder and edit config.json where you need to modi
         }],
 "sensorgpios":[{
         "gpiosensor1":"22",
-        "gpiosensor2":"22"
+        "gpiosensor2":"23"
         }],
 "mailinfo":[{
         "senderaddress":" marketingromania.ro@gmail.com",
