@@ -99,7 +99,7 @@ For security reason please change the password 1234567890 to other more strong a
 *	TemperatureHumidityLoggerGraph/html/.env
 *	TemperatureHumidityLoggerGraph/DHT22-TemperatureLogger/
 
-### Step 5: Create symlink for html to www folder
+### Step 5: symlink, composer update & artisan key generate
 ```
  $ ln -s /home/pi/TemperatureHumidityLoggerGraph/html /var/www/html/graph
  $ cd /var/www/html/graph
