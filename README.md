@@ -5,8 +5,8 @@ The Humidity and Temperature are displayed in a nice format. You can access the 
 Possibility to configure humidity limits (high and low) to sensors. If sensor reading for humidity is outside the set limit boundaries, email warning is sent to.
 
 ## ScreenShots
-[![ScreenShot 1](https://raw.githubusercontent.com/alexandrucanavoiu/TemperatureHumidityLoggerGraph/master/screenshot/dashboard.png "ScreenShot 1")](https://raw.githubusercontent.com/alexandrucanavoiu/TemperatureHumidityLoggerGraph/master/screenshot/dashboard.pn)
-[![ScreenShot 2](https://raw.githubusercontent.com/alexandrucanavoiu/TemperatureHumidityLoggerGraph/master/screenshot/search.png "ScreenShot 1")](https://raw.githubusercontent.com/alexandrucanavoiu/TemperatureHumidityLoggerGraph/master/screenshot/search.png)
+[![ScreenShot 1](https://raw.githubusercontent.com/alexandrucanavoiu/TemperatureHumidityLoggerGraph/master/screenshot/dashboard.PNG "ScreenShot 1")](https://raw.githubusercontent.com/alexandrucanavoiu/TemperatureHumidityLoggerGraph/master/screenshot/dashboard.PNG)
+[![ScreenShot 2](https://raw.githubusercontent.com/alexandrucanavoiu/TemperatureHumidityLoggerGraph/master/screenshot/search.PNG "ScreenShot 1")](https://raw.githubusercontent.com/alexandrucanavoiu/TemperatureHumidityLoggerGraph/master/screenshot/search.PNG)
 
 ### Components needed to create a Humidity & Temperature Sensor with Raspberry Pi 3
 *	1 x Raspberry Pi 3 + Power supply for the pi + SD memory card
