@@ -8,6 +8,8 @@ Possibility to configure humidity limits (high and low) to sensors. If sensor re
 [![ScreenShot 1](https://raw.githubusercontent.com/alexandrucanavoiu/TemperatureHumidityLoggerGraph/master/screenshot/dashboard.PNG "ScreenShot 1")](https://raw.githubusercontent.com/alexandrucanavoiu/TemperatureHumidityLoggerGraph/master/screenshot/dashboard.PNG)
 [![ScreenShot 2](https://raw.githubusercontent.com/alexandrucanavoiu/TemperatureHumidityLoggerGraph/master/screenshot/search.PNG "ScreenShot 1")](https://raw.githubusercontent.com/alexandrucanavoiu/TemperatureHumidityLoggerGraph/master/screenshot/search.PNG)
 
+*Note: You will see spikes in screenhots because the air conditioning was not distributed correctly in the room, the images are only informative and this can happen in the real life if the cooling is not done in the right way.*
+
 ### Components needed to create a Humidity & Temperature Sensor with Raspberry Pi 3
 *	1 x Raspberry Pi 3 + Power supply for the pi + SD memory card
 *	2 x Sensor  DHT22
@@ -15,7 +17,7 @@ Possibility to configure humidity limits (high and low) to sensors. If sensor re
 *	Lan cable
 
 ### Scheme
-![Scheme](https://www.marketingromania.ro/github/humidityandtemp/0.jpg)
+[![Scheme](https://raw.githubusercontent.com/alexandrucanavoiu/TemperatureHumidityLoggerGraph/master/screenshot/scheme.jpg "ScreenShot 1")](https://raw.githubusercontent.com/alexandrucanavoiu/TemperatureHumidityLoggerGraph/master/screenshot/scheme.jpg)
 
 ### Step 1: ( install apache + php on raspberry )
 
