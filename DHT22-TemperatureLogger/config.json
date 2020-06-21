@@ -1,8 +1,8 @@
 {
 "mysql":[{
 	"host":"localhost",
-	"user":"logger",
-	"password":"1234561",
+	"user":"temperatures",
+	"password":"123456780",
 	"database":"temperatures"
 	}],
 "sensors":[{
@@ -12,8 +12,8 @@
 "triggerlimits":[{
 	"sensor1lowlimit":"15",
 	"sensor2lowlimit":"15",
-	"sensor1highlimit":"30",
-	"sensor2highlimit":"30"
+	"sensor1highlimit":"25",
+	"sensor2highlimit":"25"
 	}],
 "humiditytriggers":[{
 	"sensor1_humidity_low_limit":"30",
@@ -26,9 +26,9 @@
 	"gpiosensor2":"22"
 	}],
 "mailinfo":[{
-	"senderaddress":"marketingromania.ro@gmail.com",
-	"receiveraddress":"marketingromania.ro@gmail.com",
-	"username":"marketingromania.ro",
+	"senderaddress":"myemail@gmail.com",
+	"receiveraddress":"myemail@gmail.com",
+	"username":"myemail@gmail.com",
 	"password":"passwordemail",
 	"subjectmessage":"Info from temperature logger",
 	"subjectwarning":"Warning from temperature logger"
